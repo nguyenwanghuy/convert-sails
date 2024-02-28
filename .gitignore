@@ -89,7 +89,7 @@ config/local.js
 
 node_modules
 
-
+.env
 ################################################
 #
 # > Do you use bower?
